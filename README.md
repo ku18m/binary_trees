@@ -23,7 +23,7 @@
 
 | Task | File |
 | ---- | ---- |
-| 0. New node | [SOON](./) |
+| 0. New node | ./0*.c |
 | 1. Insert left | [SOON](./) |
 | 2. Insert right | [SOON](./) |
 | 3. Delete | [SOON](./) |
