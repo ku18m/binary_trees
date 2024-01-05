@@ -41,7 +41,7 @@
 | 15. Is full | ./15*.c |
 | 16. Is perfect | ./16*.c |
 | 17. Sibling | ./17*.c |
-| 18. Uncle | [SOON](./) |
+| 18. Uncle | ./18*.c |
 | 19. Lowest common ancestor | [SOON](./) |
 | 20. Level-order traversal | [SOON](./) |
 | 21. Is complete | [SOON](./) |
