@@ -29,7 +29,7 @@
 | 3. Delete | ./3*.c |
 | 4. Is leaf | ./4*.c |
 | 5. Is root | ./5*.c |
-| 6. Pre-order traversal | [SOON](./) |
+| 6. Pre-order traversal | ./6*.c |
 | 7. In-order traversal | [SOON](./) |
 | 8. Post-order traversal | [SOON](./) |
 | 9. Height | [SOON](./) |
