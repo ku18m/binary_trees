@@ -38,7 +38,7 @@
 | 12. Leaves | ./12*.c |
 | 13. Nodes | ./13*.c |
 | 14. Balance factor | ./14*.c |
-| 15. Is full | [SOON](./) |
+| 15. Is full | ./15*.c |
 | 16. Is perfect | [SOON](./) |
 | 17. Sibling | [SOON](./) |
 | 18. Uncle | [SOON](./) |
