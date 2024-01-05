@@ -27,7 +27,7 @@
 | 1. Insert left | ./1*.c |
 | 2. Insert right | ./2*.c |
 | 3. Delete | ./3*.c |
-| 4. Is leaf | [SOON](./) |
+| 4. Is leaf | ./4*.c |
 | 5. Is root | [SOON](./) |
 | 6. Pre-order traversal | [SOON](./) |
 | 7. In-order traversal | [SOON](./) |
