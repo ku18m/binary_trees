@@ -33,7 +33,7 @@
 | 7. In-order traversal | ./7*.c |
 | 8. Post-order traversal | ./8*.c |
 | 9. Height | ./9*.c |
-| 10. Depth | [SOON](./) |
+| 10. Depth | ./10*.c |
 | 11. Size | [SOON](./) |
 | 12. Leaves | [SOON](./) |
 | 13. Nodes | [SOON](./) |
