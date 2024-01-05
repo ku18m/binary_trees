@@ -37,7 +37,7 @@
 | 11. Size | ./11*.c |
 | 12. Leaves | ./12*.c |
 | 13. Nodes | ./13*.c |
-| 14. Balance factor | [SOON](./) |
+| 14. Balance factor | ./14*.c |
 | 15. Is full | [SOON](./) |
 | 16. Is perfect | [SOON](./) |
 | 17. Sibling | [SOON](./) |
