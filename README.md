@@ -40,7 +40,7 @@
 | 14. Balance factor | ./14*.c |
 | 15. Is full | ./15*.c |
 | 16. Is perfect | ./16*.c |
-| 17. Sibling | [SOON](./) |
+| 17. Sibling | ./17*.c |
 | 18. Uncle | [SOON](./) |
 | 19. Lowest common ancestor | [SOON](./) |
 | 20. Level-order traversal | [SOON](./) |
