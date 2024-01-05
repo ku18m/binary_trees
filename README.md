@@ -25,7 +25,7 @@
 | ---- | ---- |
 | 0. New node | ./0*.c |
 | 1. Insert left | ./1*.c |
-| 2. Insert right | [SOON](./) |
+| 2. Insert right | ./2*.c |
 | 3. Delete | [SOON](./) |
 | 4. Is leaf | [SOON](./) |
 | 5. Is root | [SOON](./) |
