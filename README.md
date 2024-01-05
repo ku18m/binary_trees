@@ -35,7 +35,7 @@
 | 9. Height | ./9*.c |
 | 10. Depth | ./10*.c |
 | 11. Size | ./11*.c |
-| 12. Leaves | [SOON](./) |
+| 12. Leaves | ./12*.c |
 | 13. Nodes | [SOON](./) |
 | 14. Balance factor | [SOON](./) |
 | 15. Is full | [SOON](./) |
